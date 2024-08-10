@@ -3,7 +3,7 @@
 A Generative Adversarial Network (GAN) to genrate data for MNIST dataset
 
 ## Screenshots
-A sample of created images
+A sample of the images created
 <br />
 ![App Screenshot](https://github.com/user-attachments/assets/e102ae1a-fa16-4fed-9bc1-6155a61410c6)
 ![App Screenshot](https://github.com/user-attachments/assets/32456c9b-4e96-43ee-baab-12a2d6a72962)
