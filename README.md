@@ -1,6 +1,6 @@
 # Data Generation for MNIST Dataset
 
-A Generative Adversarial Network (GAN) to genrate data for MNIST dataset
+A Generative Adversarial Network (GAN) to generate data for MNIST dataset
 
 ## Screenshots
 A sample of the images created
